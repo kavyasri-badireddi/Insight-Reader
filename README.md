@@ -1,5 +1,5 @@
 
- 📄 DocReader – AI-Powered Document Chat Application
+ ## 📄 DocReader – AI-Powered Document Chat Application
 
 DocReader is a full-stack web application that allows users to upload documents and interact with them using AI-powered chat. It extracts meaningful insights from documents and enables conversational querying for better understanding.
 
